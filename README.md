@@ -1,4 +1,4 @@
-# Income-Evaluationn
+# Income-Evaluation
 # Project Overview
 This project, conducted as part of a final exam practice in the third-semester Machine Learning course, focuses on predicting income levels using classification techniques. Specifically, the project evaluates whether an individual's income exceeds $50K based on features such as age, education, and occupation. The analysis uses multiple classification models to compare performance and identify the most accurate model for income evaluation.
 
